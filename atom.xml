@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-02-09T09:13:10.005Z</updated>
+  <updated>2022-02-14T06:49:35.946Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>20220213</title>
+    <link href="http://yoursite.com/2022/02/14/20220213/"/>
+    <id>http://yoursite.com/2022/02/14/20220213/</id>
+    <published>2022-02-14T05:05:57.000Z</published>
+    <updated>2022-02-14T06:49:35.946Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2月13日中午凤凰山风景"><a href="#2月13日中午凤凰山风景" class="headerlink" title="2月13日中午凤凰山风景"></a>2月13日中午凤凰山风景</h2><p>天气暖阳，驾车与老友往山顶闲逛，旖旎风光，自由自在。<br><img src="images/2022021301.jpg" width=40% align="right"/><br>站在县城最高处俯瞰城区，大眼界，好壮观！整个过程很惬意，有点周末游玩的味道，虽久别重逢，似乎依旧如故。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">PS.凤凰楼因年久失修，没能跟上一层，希有朝一日维修完善，再来登顶。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;2月13日中午凤凰山风景&quot;&gt;&lt;a href=&quot;#2月13日中午凤凰山风景&quot; class=&quot;headerlink&quot; title=&quot;2月13日中午凤凰山风景&quot;&gt;&lt;/a&gt;2月13日中午凤凰山风景&lt;/h2&gt;&lt;p&gt;天气暖阳，驾车与老友往山顶闲逛，旖旎风光，自由自在。&lt;br&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
     <link href="http://yoursite.com/2022/02/09/test/"/>
     <id>http://yoursite.com/2022/02/09/test/</id>
     <published>2022-02-09T07:33:48.000Z</published>
-    <updated>2022-02-09T09:13:10.005Z</updated>
+    <updated>2022-02-09T09:30:44.201Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="This-is-a-test"><a href="#This-is-a-test" class="headerlink" title="This is a test"></a>This is a test</h3><blockquote><p>Learn how to do write blog<br><img src="/images/autumn.jpg" alt=""></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h3 id="This-is-a-test"><a href="#This-is-a-test" class="headerlink" title="This is a test"></a>This is a test</h3><blockquote><p>Learn how to do write blog<br><img src="/images/autumn.jpg" alt="successful"></p></blockquote><ul><li>test finished!</li></ul>]]></content>
     
     <summary type="html">
     
